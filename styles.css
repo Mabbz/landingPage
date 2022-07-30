@@ -1,1 +1,23 @@
-This is a CSS page
+.flex-container {
+     display: contents;
+  }
+  
+  
+  .flex-container div {
+    background: #1f2937;
+    border-bottom: 4px solid  #1f2937;
+    height: 200px;
+    flex: 1;
+  }
+  
+ 
+
+  ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+  }
+.one {
+    display: flex;
+    justify-content: center;
+}
